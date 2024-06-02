@@ -1,2 +1,2 @@
 # LLM-Gamma
-Basic code to measure Gamma metric as per work at https://arxiv.org/abs/2404.19708
+Minimal code to measure a basic Gamma metric based on method of https://arxiv.org/abs/2404.19708
